@@ -1,0 +1,35 @@
+
+body{
+    background-color: #cff3ff;
+    padding: 16px 32px;
+    border: 2px solid black;
+    margin: 8px 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: #e7a3bc;
+    
+}
+.subtitulo{
+    color: black;
+}
+.tortas{
+    text-align: center;
+    padding-top: 5%; 
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.col{
+    padding: 2%;
+}
+.tartas{
+    text-align: center;
+    padding-top: 5%;
+}
