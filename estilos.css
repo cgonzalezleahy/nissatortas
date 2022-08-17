@@ -41,3 +41,13 @@ body{
     text-align: center;
     padding-top: 5%; 
 }
+.footer_grid{
+    text-align: center;
+}
+.text-right{
+    text-align: left;
+}
+.item-button{
+    align-items: center;
+    text-align: center;
+}
